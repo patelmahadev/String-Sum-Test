@@ -6,3 +6,9 @@ class StringCalculatorTest < Minitest::Test
   end
 end
 
+class StringCalculator
+  def self.add(input)
+    0
+  end
+end
+
